@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/Quarkium-Labs/Quarkium/releases/latest"><b>⬇ Baixar a versão mais recente</b></a>
   &nbsp;·&nbsp;
-  <a href="SEU_LINK_DE_COMPRA"><b>Comprar a licença</b></a>
+  <a href="HTTP_???"><b>Comprar a licença</b></a>
   &nbsp;·&nbsp;
   <a href="#suporte">Suporte</a>
 </p>
@@ -75,7 +75,7 @@ Em vez de uma lista genérica de "tweaks", ele detecta o seu hardware e **já de
 
 ## Como começar
 
-1. **Compre** a sua licença em [SEU_LINK_DE_COMPRA](SEU_LINK_DE_COMPRA) e guarde a License Key que você receber.
+1. **Compre** a sua licença em [HTTP_???](HTTP_???) e guarde a License Key que você receber.
 2. **Baixe** o `Quarkium.exe` na página de [Releases](https://github.com/Quarkium-Labs/Quarkium/releases/latest).
 3. **Abra** o programa como administrador, entre com Google ou Discord e informe a sua License Key.
 4. **Escolha o modo visual** e, na tela inicial, veja o hardware detectado.
@@ -102,7 +102,7 @@ Em vez de uma lista genérica de "tweaks", ele detecta o seu hardware e **já de
 
 Precisa de ajuda com instalação, ativação ou troca de computador?
 
-- **Contato:** SEU_CONTATO_DE_SUPORTE
+- **Contato:** quarkium.group@proton.me
 
 Ao pedir suporte, informe a versão do Quarkium, a versão do Windows e, se houver, a mensagem exibida na tela.
 
