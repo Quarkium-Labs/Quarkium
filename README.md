@@ -2,8 +2,6 @@
   <img src="Assets/quarkium_logo_web.png" width="280" alt="Quarkium">
 </p>
 
-<h1 align="center">Quarkium</h1>
-
 <p align="center">
   <strong>A lighter, cleaner, faster Windows.</strong><br>
   An optimizer and debloater for Windows 10 and 11 that recommends tweaks built around your PC's hardware.
