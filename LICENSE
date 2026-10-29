@@ -1,201 +1,220 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+QUARKIUM — LICENÇA DE USO DE SOFTWARE PROPRIETÁRIO (EULA)
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Copyright © 2026 Quarkium. Todos os direitos reservados.
 
-   1. Definitions.
+Leia com atenção. Ao baixar, instalar, ativar ou usar o Quarkium, você
+declara que leu e concorda com estes termos. Se não concordar, não use o
+software.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+Este software NÃO é de código aberto e NÃO é software livre. Ele é um
+produto comercial, licenciado mediante pagamento.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+1. DEFINIÇÕES
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+1.1. "Software": o programa Quarkium, em qualquer versão, incluindo o
+     executável, as atualizações, a documentação, os textos, as imagens, o
+     logotipo e demais materiais que o acompanham.
+1.2. "Titular": a Quarkium, titular dos direitos sobre o Software.
+1.3. "Usuário" ou "você": a pessoa física ou jurídica que adquiriu uma
+     licença e utiliza o Software.
+1.4. "License Key": a chave de ativação pessoal fornecida ao Usuário.
+1.5. "Plano": as condições da licença adquirida, como prazo de validade
+     (temporário ou vitalício) e número de computadores permitidos.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+2. CONCESSÃO DE LICENÇA
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+2.1. Sujeito ao pagamento do preço do Plano e ao cumprimento destes termos,
+     o Titular concede ao Usuário uma licença limitada, pessoal, não
+     exclusiva, intransferível, não sublicenciável e revogável para
+     instalar e usar o Software, em formato executável, no número de
+     computadores previsto no Plano.
+2.2. O uso depende de uma License Key válida e de conta de login válida.
+2.3. A licença é do Usuário que a adquiriu. Ela não pode ser dividida entre
+     várias pessoas nem compartilhada.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+3. O SOFTWARE É LICENCIADO, NÃO VENDIDO
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+3.1. O Software é licenciado, e não vendido. O pagamento dá ao Usuário o
+     direito de uso conforme este documento, e não a propriedade do
+     Software ou de qualquer direito de propriedade intelectual sobre ele.
+3.2. Todos os direitos não concedidos expressamente neste documento são
+     reservados ao Titular.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+4. RESTRIÇÕES
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+Salvo autorização prévia e por escrito do Titular, é proibido:
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+a) copiar, reproduzir ou distribuir o Software, no todo ou em parte,
+   inclusive publicá-lo em sites, repositórios, fóruns, serviços de
+   compartilhamento de arquivos ou qualquer outro meio (a cópia necessária
+   para uso nos computadores do Plano e a cópia de segurança pessoal são
+   permitidas);
+b) vender, revender, alugar, emprestar, sublicenciar, transferir ou
+   disponibilizar o Software ou a License Key a terceiros, de forma onerosa
+   ou gratuita;
+c) compartilhar a License Key ou a conta de login, ou usar o Software em
+   mais computadores do que o permitido pelo Plano;
+d) descompilar, desmontar, realizar engenharia reversa, tentar obter o
+   código-fonte ou a lógica interna do Software, ou criar obras derivadas,
+   salvo nos limites em que a lei aplicável permitir expressamente, e
+   apenas nesses limites;
+e) modificar, adaptar, "crackear", corrigir ("patch") ou alterar o
+   Software, inclusive para remover, burlar ou desativar a verificação de
+   licença, o limite de dispositivos, o sistema de atualização ou qualquer
+   outra proteção;
+f) gerar, adivinhar, falsificar, comercializar ou usar License Keys não
+   fornecidas pelo Titular;
+g) remover ou alterar avisos de direitos autorais, marcas ou
+   identificações do Software;
+h) usar o Software ou sua marca para criar produto ou serviço concorrente,
+   ou para oferecer serviços a terceiros com o Software sem licença
+   adequada para isso;
+i) usar a marca Quarkium, o logotipo ou os materiais do Software de forma
+   que sugira vínculo, patrocínio ou aprovação do Titular, sem autorização;
+j) usar o Software para fins ilegais ou em violação de direitos de
+   terceiros.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+5. ATIVAÇÃO, VERIFICAÇÃO E REVOGAÇÃO DA LICENÇA
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+5.1. O Software exige login e License Key e verifica a validade da licença
+     pela internet, ao abrir e periodicamente durante o uso. Se a
+     verificação não puder ser feita, o uso poderá ser limitado ou
+     bloqueado.
+5.2. A License Key é vinculada à conta que a ativou e aos computadores
+     registrados, dentro do limite do Plano.
+5.3. O Titular poderá suspender ou revogar a licença, a License Key ou o
+     acesso, sem aviso prévio, em caso de violação destes termos, uso
+     indevido, chave compartilhada ou revendida, fraude, estorno de
+     pagamento ou ordem legal ou judicial.
+5.4. Em Planos com prazo, o direito de uso termina no fim do período
+     contratado, salvo renovação.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+6. ATUALIZAÇÕES
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+6.1. O Software pode verificar, baixar e instalar atualizações
+     automaticamente. As atualizações podem corrigir falhas, melhorar
+     recursos, adicionar ou remover funcionalidades, e passam a fazer parte
+     do Software, sujeitas a estes termos.
+6.2. O Titular não é obrigado a manter versões antigas, e algumas
+     atualizações podem ser necessárias para continuar usando o Software.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+7. PREÇO, PAGAMENTO E REEMBOLSO
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+7.1. O uso do Software depende do pagamento do preço do Plano vigente na
+     data da compra.
+7.2. Quando a compra for feita pela internet por consumidor, o Usuário tem
+     o direito de arrependimento previsto no art. 49 do Código de Defesa do
+     Consumidor (7 dias a contar da compra ou do recebimento do produto),
+     nos termos da lei.
+7.3. Fora dessa hipótese e de outros direitos garantidos por lei, os
+     valores pagos não são reembolsáveis, inclusive em caso de revogação
+     por violação destes termos.
 
-   END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+8. RISCOS DE USO E RESPONSABILIDADE DO USUÁRIO
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+8.1. O Software altera configurações do Windows, como registro, serviços,
+     aplicativos e arquivos, a pedido do Usuário. Essas alterações têm
+     efeito sobre o computador e podem causar comportamentos inesperados,
+     incompatibilidades ou perda de dados, dependendo do equipamento e do
+     que for escolhido.
+8.2. O Usuário é responsável pelas ações que confirmar, inclusive apagar
+     arquivos, encerrar processos e remover aplicativos. Recomenda-se criar
+     ponto de restauração e manter cópia de segurança dos dados importantes
+     antes de aplicar mudanças.
+8.3. Nem todas as alterações podem ser desfeitas pelo Software. A remoção
+     de aplicativos pré-instalados, por exemplo, só pode ser desfeita
+     reinstalando o aplicativo pela fonte original.
+8.4. Resultados de desempenho variam conforme o equipamento e não são
+     garantidos.
 
-   Copyright [yyyy] [name of copyright owner]
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+9. GARANTIA E LIMITAÇÃO DE RESPONSABILIDADE
 
-       http://www.apache.org/licenses/LICENSE-2.0
+9.1. Na máxima extensão permitida pela lei aplicável, o Software é
+     fornecido "no estado em que se encontra" ("como está"), sem garantia
+     de funcionamento ininterrupto, de ausência de erros, de compatibilidade
+     com todos os equipamentos ou de adequação a um fim específico.
+9.2. Na máxima extensão permitida pela lei, o Titular não responde por
+     danos indiretos, lucros cessantes, perda de dados ou de oportunidades,
+     ou danos decorrentes do mau uso, de configurações escolhidas pelo
+     Usuário ou de falhas de terceiros (como o Windows, drivers, internet
+     ou serviços de login).
+9.3. Na máxima extensão permitida pela lei, a responsabilidade total do
+     Titular perante o Usuário, por qualquer causa, fica limitada ao valor
+     efetivamente pago pelo Usuário pela licença.
+9.4. Nada neste documento exclui ou limita direitos do consumidor que, por
+     lei, não possam ser excluídos ou limitados, nem a responsabilidade por
+     dolo ou culpa grave.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+
+10. PROPRIEDADE INTELECTUAL
+
+10.1. O Software, o código-fonte, o design, os textos, os recursos visuais,
+      o nome Quarkium e o logotipo são protegidos pela legislação de
+      direitos autorais e de propriedade intelectual, inclusive a Lei nº
+      9.609/1998 (Lei do Software) e a Lei nº 9.610/1998 (Lei de Direitos
+      Autorais), e pertencem ao Titular.
+10.2. Componentes de terceiros distribuídos com o Software, como o ambiente
+      de execução .NET, seguem as respectivas licenças.
+10.3. Sugestões e comentários enviados pelo Usuário podem ser usados pelo
+      Titular sem obrigação de pagamento ou atribuição.
+
+
+11. DADOS E PRIVACIDADE
+
+11.1. Para login e licenciamento, o Software trata dados como o e-mail e o
+      identificador da conta (Google ou Discord), a License Key e um
+      identificador do computador gerado a partir de dados do Windows.
+11.2. Esses dados são usados para ativar, verificar e proteger a licença,
+      prestar suporte e cumprir obrigações legais, conforme a Lei Geral de
+      Proteção de Dados (Lei nº 13.709/2018).
+11.3. O Usuário pode solicitar informações, correção ou exclusão dos seus
+      dados pelo contato indicado no item 14, respeitadas as obrigações
+      legais de guarda.
+
+
+12. VIGÊNCIA E ENCERRAMENTO
+
+12.1. Esta licença vigora enquanto o Usuário cumprir estes termos e o Plano
+      estiver válido.
+12.2. Em caso de violação, a licença termina automaticamente, sem prejuízo
+      de outras medidas legais cabíveis, inclusive indenização por perdas
+      e danos.
+12.3. Encerrada a licença, o Usuário deve parar de usar o Software e
+      apagar suas cópias. Os itens 3, 4, 8, 9, 10 e 13 continuam valendo
+      após o encerramento.
+
+
+13. DISPOSIÇÕES GERAIS
+
+13.1. O Titular pode atualizar estes termos. A versão vigente é a
+      publicada com o Software. O uso continuado após a mudança indica
+      concordância, sem prejuízo dos direitos do consumidor.
+13.2. Se alguma cláusula for considerada inválida, as demais continuam em
+      vigor.
+13.3. A tolerância do Titular quanto a qualquer descumprimento não significa
+      renúncia a seus direitos.
+13.4. A licença não pode ser cedida pelo Usuário sem autorização por
+      escrito do Titular.
+13.5. Estes termos são regidos pelas leis da República Federativa do
+      Brasil. Fica eleito o foro do domicílio do Usuário consumidor. Para
+      Usuários que não sejam consumidores, fica eleito o foro da comarca
+      do domicílio do Titular, com renúncia a qualquer outro.
+
+
+14. CONTATO
+
+Dúvidas sobre esta licença, pedidos de autorização ou de dados pessoais:
+quarkium.group@proton.me
+
+
+Quarkium e o logotipo Quarkium são marcas do Titular.
+Todos os direitos reservados.
