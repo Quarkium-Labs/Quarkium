@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/Quarkium-Labs/Quarkium/releases/latest"><b>⬇ Download the latest version</b></a>
   &nbsp;·&nbsp;
-  <a href="HTTP_???"><b>Buy a license</b></a>
+  <a href="https://quarkium.vercel.app/"><b>Buy a license</b></a>
   &nbsp;·&nbsp;
   <a href="#support">Support</a>
 </p>
