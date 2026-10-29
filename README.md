@@ -2,8 +2,6 @@
   <img src="Assets/quarkium_logo_web.png" width="280" alt="Quarkium">
 </p>
 
-<h1 align="center">Quarkium</h1>
-
 <p align="center">
   <strong>Seu Windows mais leve, limpo e rápido.</strong><br>
   Otimizador e debloater para Windows 10 e 11, com recomendações feitas para o hardware do seu PC.
