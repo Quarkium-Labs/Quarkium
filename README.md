@@ -1,111 +1,113 @@
 <p align="center">
-  <img src="Assets/quarkium_logo_web.png" width="280" alt="Quarkium">
+  <img src="assets/quarkium_logo_web.png" width="280" alt="Quarkium">
+</p>
+
+<h1 align="center">Quarkium</h1>
+
+<p align="center">
+  <strong>A lighter, cleaner, faster Windows.</strong><br>
+  An optimizer and debloater for Windows 10 and 11 that recommends tweaks built around your PC's hardware.
 </p>
 
 <p align="center">
-  <strong>Seu Windows mais leve, limpo e rápido.</strong><br>
-  Otimizador e debloater para Windows 10 e 11, com recomendações feitas para o hardware do seu PC.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Quarkium-Labs/Quarkium/releases/latest"><b>⬇ Baixar a versão mais recente</b></a>
+  <a href="https://github.com/Quarkium-Labs/Quarkium/releases/latest"><b>⬇ Download the latest version</b></a>
   &nbsp;·&nbsp;
-  <a href="HTTP_???"><b>Comprar a licença</b></a>
+  <a href="YOUR_PURCHASE_LINK"><b>Buy a license</b></a>
   &nbsp;·&nbsp;
-  <a href="#suporte">Suporte</a>
+  <a href="#support">Support</a>
 </p>
 
 ---
 
-## O que é o Quarkium?
+## What is Quarkium?
 
-O Quarkium é um programa para Windows que **analisa o seu PC e aplica otimizações sob medida**: remove o que pesa sem necessidade, limpa o que está sobrando e ajusta o sistema para o seu processador, placa de vídeo, memória e disco.
+Quarkium is a Windows program that **analyzes your PC and applies optimizations made for it**: it removes what weighs your system down, cleans up what is left behind, and tunes Windows for your processor, graphics card, memory and drives.
 
-Em vez de uma lista genérica de "tweaks", ele detecta o seu hardware e **já deixa marcado o que faz sentido para o seu computador**. Você revisa, confirma e aplica. Tudo o que for possível reverter, pode ser revertido pelo próprio programa.
+Instead of a generic list of tweaks, it detects your hardware and **pre-selects what makes sense for your computer**. You review, confirm and apply. Whatever can be undone, you can undo from inside the program.
 
-> **Produto pago.** O Quarkium é um software proprietário e exige uma License Key. Veja os termos em [LICENSE](LICENSE).
+> **Paid product.** Quarkium is proprietary software and requires a License Key. See the terms in [LICENSE](LICENSE).
 
-## O que ele faz
+## What it does
 
-### Otimizações
-| Recurso | Descrição |
+### Optimizations
+| Feature | Description |
 |---|---|
-| **Ajustes do Windows** | Cerca de 30 ajustes organizados por categoria: Privacidade, CPU, GPU, RAM, SSD, HDD, Rede, Serviços, Explorer e Debloat. Os recomendados para o seu hardware já vêm marcados. |
-| **Debloat** | Lista os apps que vêm com o Windows, classificados como sugerido, opcional, de terceiros ou protegido. Você escolhe o que remover, com busca e filtros. Apps essenciais ficam bloqueados. |
-| **Limpeza de disco** | Arquivos temporários, cache do Windows Update, cache de shaders DirectX, relatórios de erro, minidumps, Lixeira e cache de DNS. Mostra o espaço que será liberado antes de limpar. |
-| **Liberar RAM** | Libera memória sob demanda com um clique. |
-| **Programas de inicialização** | Liga e desliga o que abre junto com o Windows, de forma reversível. |
-| **Ponto de restauração** | Cria um ponto de restauração do Windows antes de você aplicar mudanças. |
+| **Windows tweaks** | Around 30 tweaks organized by category: Privacy, CPU, GPU, RAM, SSD, HDD, Network, Services, Explorer and Debloat. The ones recommended for your hardware come pre-selected. |
+| **Debloat** | Lists the apps that ship with Windows, sorted as suggested, optional, third-party or protected. You choose what to remove, with search and filters. Essential apps are locked. |
+| **Disk cleanup** | Temporary files, Windows Update cache, DirectX shader cache, error reports, minidumps, Recycle Bin and DNS cache. Shows how much space will be freed before you clean. |
+| **Free RAM** | Releases memory on demand with one click. |
+| **Startup programs** | Turns on or off what launches with Windows, reversibly. |
+| **Restore point** | Creates a Windows restore point before you apply changes. |
 
 ### Quarkium Speed
-| Recurso | Descrição |
+| Feature | Description |
 |---|---|
-| **RAM automática** | Limpa a memória sozinho, por limite de uso ou por intervalo de tempo, com as regras que você definir. |
-| **Modo Jogo** | Coloca o Windows em modo desempenho: plano de energia, efeitos visuais reduzidos, Game Mode do Windows, gravação em segundo plano desligada e, se você quiser, RAM liberada e processos encerrados. Tudo configurável. Ao desativar, o Windows volta ao estado original, mesmo que você tenha fechado o Quarkium. |
-| **Limpeza profunda** | Examina o disco e mostra uma árvore de pastas ordenada por tamanho, para você achar o que está ocupando espaço e apagar. |
-| **Processos** | Mostra o que roda em primeiro e em segundo plano e permite encerrar o que não precisa. |
+| **Automatic RAM cleaner** | Frees memory on its own, by usage threshold or by time interval, using the rules you set. |
+| **Game Mode** | Puts Windows in performance mode: power plan, reduced visual effects, Windows Game Mode on, background recording off and, if you want, RAM freed and processes closed. Everything is configurable. When you turn it off, Windows goes back to its original state, even if you closed Quarkium in the meantime. |
+| **Deep clean** | Scans your drive and shows a folder tree sorted by size, so you can find what is taking up space and delete it. |
+| **Processes** | Shows what runs in the foreground and background and lets you close what you don't need. |
 
 ### Quarkium Score
-| Recurso | Descrição |
+| Feature | Description |
 |---|---|
-| **Teste de score** | Mede CPU, RAM e disco em cerca de 10 segundos e gera uma nota de 0 a 1000. Compare com o teste anterior para ver o efeito das otimizações no **seu** PC. |
-| **Diagnóstico de gargalo** | Observa o PC por alguns segundos e indica o que mais limita o desempenho (disco, memória ou CPU), além dos pontos fracos do hardware. |
+| **Score test** | Measures CPU, RAM and disk in about 10 seconds and gives you a score from 0 to 1000. Compare it with your previous test to see the effect of your optimizations on **your** PC. |
+| **Bottleneck diagnosis** | Watches your PC for a few seconds and shows what limits performance the most (disk, memory or CPU), plus weak points in your hardware. |
 
-## Vantagens
+## Why Quarkium
 
-- **Feito para o seu hardware.** As recomendações mudam conforme o seu PC: o que vale para SSD não é aplicado em HDD, e o que vale para desktop não é marcado em notebook.
-- **Você está no controle.** Nada é aplicado sem você confirmar, e os ajustes de risco médio nunca vêm marcados automaticamente.
-- **Reversível.** Os ajustes de registro e de serviços guardam o valor original e podem ser desfeitos pela interface. O programa também oferece criar um ponto de restauração antes de começar.
-- **Proteções embutidas.** O Quarkium recusa apagar pastas críticas do sistema (como `Windows`, `Program Files` e `Users`) e não encerra processos essenciais do Windows.
-- **Confirmação para ações destrutivas.** Apagar arquivos, encerrar processos e remover apps exige segurar o botão por 3 segundos, para evitar cliques por engano.
-- **Um único arquivo.** É só baixar o `.exe` e abrir. Não precisa instalar o .NET nem nenhum outro componente.
-- **Roda bem em PC fraco.** Escolha o modo visual **Light** (sem animações, mínimo uso de CPU e GPU) ou **Physics** (transições, partículas e animações) e troque quando quiser.
-- **Em 3 idiomas.** Interface em Português (BR), English e Español.
-- **Atualizações seguras.** O app confere sozinho se há versão nova e só instala atualizações com assinatura digital válida.
-- **Transparente.** O Quarkium só se conecta à internet para login e verificação da licença e para checar atualizações.
+- **Built around your hardware.** Recommendations change with your PC: what suits an SSD is not applied to an HDD, and what suits a desktop is not pre-selected on a laptop.
+- **You stay in control.** Nothing is applied until you confirm, and medium-risk tweaks are never pre-selected.
+- **Reversible.** Registry and service tweaks save the original value and can be undone from the interface. The program also offers to create a restore point before you start.
+- **Built-in safeguards.** Quarkium refuses to delete critical system folders (such as `Windows`, `Program Files` and `Users`) and does not close essential Windows processes.
+- **Confirmation for destructive actions.** Deleting files, closing processes and removing apps requires holding the button for 3 seconds, to prevent accidental clicks.
+- **A single file.** Just download the `.exe` and open it. No need to install .NET or any other component.
+- **Runs well on low-end PCs.** Pick the **Light** visual mode (no animations, minimal CPU and GPU use) or **Physics** (transitions, particles and animations), and switch whenever you like.
+- **Three languages.** Interface in English, Português (BR) and Español.
+- **Secure updates.** The app checks for new versions on its own and only installs updates that carry a valid digital signature.
+- **Transparent.** Quarkium only connects to the internet for sign-in and license verification, and to check for updates.
 
-## Requisitos
+## Requirements
 
-- Windows 10 ou Windows 11 (64 bits)
-- Permissão de administrador (necessária para alterar serviços e configurações do sistema)
-- Conexão com a internet para login, ativação e verificação da licença
-- Uma conta Google ou Discord para entrar e uma License Key válida
+- Windows 10 or Windows 11 (64-bit)
+- Administrator permission (needed to change services and system settings)
+- Internet connection for sign-in, activation and license verification
+- A Google or Discord account to sign in, and a valid License Key
 
-## Como começar
+## Getting started
 
-1. **Compre** a sua licença em [HTTP_???](HTTP_???) e guarde a License Key que você receber.
-2. **Baixe** o `Quarkium.exe` na página de [Releases](https://github.com/Quarkium-Labs/Quarkium/releases/latest).
-3. **Abra** o programa como administrador, entre com Google ou Discord e informe a sua License Key.
-4. **Escolha o modo visual** e, na tela inicial, veja o hardware detectado.
-5. **Crie um ponto de restauração**, revise as otimizações recomendadas e aplique.
+1. **Buy** your license at [YOUR_PURCHASE_LINK](YOUR_PURCHASE_LINK) and keep the License Key you receive.
+2. **Download** `Quarkium.exe` from the [Releases](https://github.com/Quarkium-Labs/Quarkium/releases/latest) page.
+3. **Open** the program as administrator, sign in with Google or Discord, and enter your License Key.
+4. **Choose a visual mode** and, on the home screen, check the detected hardware.
+5. **Create a restore point**, review the recommended optimizations and apply them.
 
-> Baixe o Quarkium somente por esta página. Se o Windows SmartScreen ou o antivírus exibir um aviso na primeira execução, é comum em programas que alteram configurações do sistema. Confirme que o arquivo veio deste repositório antes de continuar.
+> Download Quarkium only from this page. If Windows SmartScreen or your antivirus shows a warning on first run, that is common for programs that change system settings. Make sure the file came from this repository before you continue.
 
-## Licença e ativação
+## License and activation
 
-- A License Key fica vinculada à conta que a ativou e ao número de computadores previsto no seu plano.
-- A licença é verificada ao abrir o programa e de tempos em tempos enquanto ele estiver em uso.
-- Trocou de computador? Fale com o suporte para liberar o aparelho antigo.
-- **Não compartilhe a sua chave.** Chaves compartilhadas ou revendidas podem ser revogadas.
+- Your License Key is tied to the account that activated it and to the number of computers included in your plan.
+- The license is verified when the program starts and from time to time while it is in use.
+- Changed computers? Contact support to release the old device.
+- **Do not share your key.** Shared or resold keys may be revoked.
 
-## Boas práticas e limites
+## Good practice and limits
 
-- Teste primeiro as mudanças e use o ponto de restauração antes de aplicar muitos ajustes de uma vez.
-- **Remover apps pré-instalados não é reversível pelo Quarkium.** Se precisar de um app de volta, reinstale pela Microsoft Store. Isso aparece marcado no programa.
-- Grandes atualizações do Windows podem desfazer alguns ajustes. Basta aplicar de novo.
-- O botão "Liberar RAM" reduz a memória usada pelos processos de forma temporária. O Windows já gerencia a memória bem, e o ganho mais duradouro vem de desativar o que você não precisa que abra.
-- Os resultados variam de PC para PC. Use o **Quarkium Score** para medir a diferença no seu equipamento.
+- Test changes first, and use the restore point before applying many tweaks at once.
+- **Removing preinstalled apps cannot be undone by Quarkium.** If you need an app back, reinstall it from the Microsoft Store. This is clearly marked in the program.
+- Large Windows updates can undo some tweaks. Just apply them again.
+- The "Free RAM" button temporarily reduces the memory used by processes. Windows already manages memory well, and the longer-lasting gain comes from turning off what you don't need to launch.
+- Results vary from PC to PC. Use **Quarkium Score** to measure the difference on your own machine.
 
-## Suporte
+## Support
 
-Precisa de ajuda com instalação, ativação ou troca de computador?
+Need help with installation, activation or moving to a new computer?
 
-- **Contato:** quarkium.group@proton.me
+- **Contact:** YOUR_SUPPORT_CONTACT
 
-Ao pedir suporte, informe a versão do Quarkium, a versão do Windows e, se houver, a mensagem exibida na tela.
+When asking for help, include your Quarkium version, your Windows version and, if there is one, the message shown on screen.
 
-## Licença de uso
+## License
 
-O Quarkium é um software proprietário, licenciado e não vendido. O uso está sujeito aos termos do arquivo [LICENSE](LICENSE).
+Quarkium is proprietary software, licensed and not sold. Use is subject to the terms in the [LICENSE](LICENSE) file.
 
-© 2026 Quarkium. Todos os direitos reservados. Quarkium e o logotipo Quarkium são marcas do titular.
+© 2026 Quarkium. All rights reserved. Quarkium and the Quarkium logo are trademarks of the owner.

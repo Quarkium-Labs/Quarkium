@@ -1,220 +1,227 @@
-QUARKIUM — LICENÇA DE USO DE SOFTWARE PROPRIETÁRIO (EULA)
+QUARKIUM — PROPRIETARY SOFTWARE LICENSE AGREEMENT (EULA)
 
-Copyright © 2026 Quarkium. Todos os direitos reservados.
+Copyright © 2026 Quarkium. All rights reserved.
 
-Leia com atenção. Ao baixar, instalar, ativar ou usar o Quarkium, você
-declara que leu e concorda com estes termos. Se não concordar, não use o
-software.
+Please read this agreement carefully. By downloading, installing, activating
+or using Quarkium, you confirm that you have read and agree to these terms.
+If you do not agree, do not use the software.
 
-Este software NÃO é de código aberto e NÃO é software livre. Ele é um
-produto comercial, licenciado mediante pagamento.
-
-
-1. DEFINIÇÕES
-
-1.1. "Software": o programa Quarkium, em qualquer versão, incluindo o
-     executável, as atualizações, a documentação, os textos, as imagens, o
-     logotipo e demais materiais que o acompanham.
-1.2. "Titular": a Quarkium, titular dos direitos sobre o Software.
-1.3. "Usuário" ou "você": a pessoa física ou jurídica que adquiriu uma
-     licença e utiliza o Software.
-1.4. "License Key": a chave de ativação pessoal fornecida ao Usuário.
-1.5. "Plano": as condições da licença adquirida, como prazo de validade
-     (temporário ou vitalício) e número de computadores permitidos.
+This software is NOT open source and NOT free software. It is a commercial
+product, licensed in exchange for payment. No open source license applies to
+it, and nothing in this repository grants you rights beyond those set out
+below.
 
 
-2. CONCESSÃO DE LICENÇA
+1. DEFINITIONS
 
-2.1. Sujeito ao pagamento do preço do Plano e ao cumprimento destes termos,
-     o Titular concede ao Usuário uma licença limitada, pessoal, não
-     exclusiva, intransferível, não sublicenciável e revogável para
-     instalar e usar o Software, em formato executável, no número de
-     computadores previsto no Plano.
-2.2. O uso depende de uma License Key válida e de conta de login válida.
-2.3. A licença é do Usuário que a adquiriu. Ela não pode ser dividida entre
-     várias pessoas nem compartilhada.
-
-
-3. O SOFTWARE É LICENCIADO, NÃO VENDIDO
-
-3.1. O Software é licenciado, e não vendido. O pagamento dá ao Usuário o
-     direito de uso conforme este documento, e não a propriedade do
-     Software ou de qualquer direito de propriedade intelectual sobre ele.
-3.2. Todos os direitos não concedidos expressamente neste documento são
-     reservados ao Titular.
+1.1. "Software": the Quarkium program in any version, including the
+     executable, updates, documentation, text, images, logo and any other
+     materials that come with it.
+1.2. "Licensor": Quarkium, the owner of the rights in the Software.
+1.3. "User" or "you": the person or entity that acquired a license and uses
+     the Software.
+1.4. "License Key": the personal activation key provided to the User.
+1.5. "Plan": the terms of the license purchased, such as its duration
+     (time-limited or lifetime) and the number of computers allowed.
 
 
-4. RESTRIÇÕES
+2. LICENSE GRANT
 
-Salvo autorização prévia e por escrito do Titular, é proibido:
-
-a) copiar, reproduzir ou distribuir o Software, no todo ou em parte,
-   inclusive publicá-lo em sites, repositórios, fóruns, serviços de
-   compartilhamento de arquivos ou qualquer outro meio (a cópia necessária
-   para uso nos computadores do Plano e a cópia de segurança pessoal são
-   permitidas);
-b) vender, revender, alugar, emprestar, sublicenciar, transferir ou
-   disponibilizar o Software ou a License Key a terceiros, de forma onerosa
-   ou gratuita;
-c) compartilhar a License Key ou a conta de login, ou usar o Software em
-   mais computadores do que o permitido pelo Plano;
-d) descompilar, desmontar, realizar engenharia reversa, tentar obter o
-   código-fonte ou a lógica interna do Software, ou criar obras derivadas,
-   salvo nos limites em que a lei aplicável permitir expressamente, e
-   apenas nesses limites;
-e) modificar, adaptar, "crackear", corrigir ("patch") ou alterar o
-   Software, inclusive para remover, burlar ou desativar a verificação de
-   licença, o limite de dispositivos, o sistema de atualização ou qualquer
-   outra proteção;
-f) gerar, adivinhar, falsificar, comercializar ou usar License Keys não
-   fornecidas pelo Titular;
-g) remover ou alterar avisos de direitos autorais, marcas ou
-   identificações do Software;
-h) usar o Software ou sua marca para criar produto ou serviço concorrente,
-   ou para oferecer serviços a terceiros com o Software sem licença
-   adequada para isso;
-i) usar a marca Quarkium, o logotipo ou os materiais do Software de forma
-   que sugira vínculo, patrocínio ou aprovação do Titular, sem autorização;
-j) usar o Software para fins ilegais ou em violação de direitos de
-   terceiros.
+2.1. Subject to payment of the Plan price and compliance with these terms,
+     the Licensor grants the User a limited, personal, non-exclusive,
+     non-transferable, non-sublicensable and revocable license to install
+     and use the Software, in executable form, on the number of computers
+     allowed by the Plan.
+2.2. Use requires a valid License Key and a valid sign-in account.
+2.3. The license belongs to the User who acquired it. It may not be split
+     among several people or shared.
 
 
-5. ATIVAÇÃO, VERIFICAÇÃO E REVOGAÇÃO DA LICENÇA
+3. LICENSED, NOT SOLD
 
-5.1. O Software exige login e License Key e verifica a validade da licença
-     pela internet, ao abrir e periodicamente durante o uso. Se a
-     verificação não puder ser feita, o uso poderá ser limitado ou
-     bloqueado.
-5.2. A License Key é vinculada à conta que a ativou e aos computadores
-     registrados, dentro do limite do Plano.
-5.3. O Titular poderá suspender ou revogar a licença, a License Key ou o
-     acesso, sem aviso prévio, em caso de violação destes termos, uso
-     indevido, chave compartilhada ou revendida, fraude, estorno de
-     pagamento ou ordem legal ou judicial.
-5.4. Em Planos com prazo, o direito de uso termina no fim do período
-     contratado, salvo renovação.
+3.1. The Software is licensed, not sold. Payment gives the User a right to
+     use the Software under this agreement, not ownership of the Software
+     or of any intellectual property right in it.
+3.2. All rights not expressly granted in this agreement are reserved by the
+     Licensor.
 
 
-6. ATUALIZAÇÕES
+4. RESTRICTIONS
 
-6.1. O Software pode verificar, baixar e instalar atualizações
-     automaticamente. As atualizações podem corrigir falhas, melhorar
-     recursos, adicionar ou remover funcionalidades, e passam a fazer parte
-     do Software, sujeitas a estes termos.
-6.2. O Titular não é obrigado a manter versões antigas, e algumas
-     atualizações podem ser necessárias para continuar usando o Software.
+Unless the Licensor has given prior written permission, you may not:
 
-
-7. PREÇO, PAGAMENTO E REEMBOLSO
-
-7.1. O uso do Software depende do pagamento do preço do Plano vigente na
-     data da compra.
-7.2. Quando a compra for feita pela internet por consumidor, o Usuário tem
-     o direito de arrependimento previsto no art. 49 do Código de Defesa do
-     Consumidor (7 dias a contar da compra ou do recebimento do produto),
-     nos termos da lei.
-7.3. Fora dessa hipótese e de outros direitos garantidos por lei, os
-     valores pagos não são reembolsáveis, inclusive em caso de revogação
-     por violação destes termos.
-
-
-8. RISCOS DE USO E RESPONSABILIDADE DO USUÁRIO
-
-8.1. O Software altera configurações do Windows, como registro, serviços,
-     aplicativos e arquivos, a pedido do Usuário. Essas alterações têm
-     efeito sobre o computador e podem causar comportamentos inesperados,
-     incompatibilidades ou perda de dados, dependendo do equipamento e do
-     que for escolhido.
-8.2. O Usuário é responsável pelas ações que confirmar, inclusive apagar
-     arquivos, encerrar processos e remover aplicativos. Recomenda-se criar
-     ponto de restauração e manter cópia de segurança dos dados importantes
-     antes de aplicar mudanças.
-8.3. Nem todas as alterações podem ser desfeitas pelo Software. A remoção
-     de aplicativos pré-instalados, por exemplo, só pode ser desfeita
-     reinstalando o aplicativo pela fonte original.
-8.4. Resultados de desempenho variam conforme o equipamento e não são
-     garantidos.
+a) copy, reproduce or distribute the Software, in whole or in part,
+   including posting it on websites, repositories, forums, file-sharing
+   services or any other medium (the copies needed to use the Software on
+   the computers covered by your Plan, and one personal backup copy, are
+   allowed);
+b) sell, resell, rent, lease, lend, sublicense, transfer or make available
+   the Software or the License Key to third parties, whether for payment
+   or free of charge;
+c) share the License Key or sign-in account, or use the Software on more
+   computers than your Plan allows;
+d) decompile, disassemble, reverse engineer, or try to obtain the source
+   code or internal logic of the Software, or create derivative works,
+   except to the extent applicable law expressly permits this despite this
+   restriction, and then only to that extent;
+e) modify, adapt, crack, patch or otherwise alter the Software, including
+   to remove, bypass or disable license verification, the device limit,
+   the update system or any other protection;
+f) generate, guess, forge, trade or use License Keys not issued by the
+   Licensor;
+g) remove or alter copyright notices, trademarks or other identifications
+   in the Software;
+h) use the Software, or its brand, to build a competing product or service,
+   or to provide services to third parties using the Software without a
+   suitable license for that purpose;
+i) use the Quarkium name, logo or materials in a way that suggests
+   affiliation, sponsorship or endorsement by the Licensor without
+   permission;
+j) use the Software for any unlawful purpose or in violation of the rights
+   of others.
 
 
-9. GARANTIA E LIMITAÇÃO DE RESPONSABILIDADE
+5. ACTIVATION, VERIFICATION AND REVOCATION
 
-9.1. Na máxima extensão permitida pela lei aplicável, o Software é
-     fornecido "no estado em que se encontra" ("como está"), sem garantia
-     de funcionamento ininterrupto, de ausência de erros, de compatibilidade
-     com todos os equipamentos ou de adequação a um fim específico.
-9.2. Na máxima extensão permitida pela lei, o Titular não responde por
-     danos indiretos, lucros cessantes, perda de dados ou de oportunidades,
-     ou danos decorrentes do mau uso, de configurações escolhidas pelo
-     Usuário ou de falhas de terceiros (como o Windows, drivers, internet
-     ou serviços de login).
-9.3. Na máxima extensão permitida pela lei, a responsabilidade total do
-     Titular perante o Usuário, por qualquer causa, fica limitada ao valor
-     efetivamente pago pelo Usuário pela licença.
-9.4. Nada neste documento exclui ou limita direitos do consumidor que, por
-     lei, não possam ser excluídos ou limitados, nem a responsabilidade por
-     dolo ou culpa grave.
+5.1. The Software requires sign-in and a License Key, and verifies that the
+     license is valid over the internet when it starts and periodically
+     while in use. If verification cannot be completed, use may be limited
+     or blocked.
+5.2. The License Key is tied to the account that activated it and to the
+     registered computers, within the Plan limit.
+5.3. The Licensor may suspend or revoke the license, the License Key or
+     access, without prior notice, in case of breach of these terms,
+     misuse, shared or resold keys, fraud, payment reversal or chargeback,
+     or a legal or court order.
+5.4. For time-limited Plans, the right to use the Software ends when the
+     paid period ends, unless renewed.
 
 
-10. PROPRIEDADE INTELECTUAL
+6. UPDATES
 
-10.1. O Software, o código-fonte, o design, os textos, os recursos visuais,
-      o nome Quarkium e o logotipo são protegidos pela legislação de
-      direitos autorais e de propriedade intelectual, inclusive a Lei nº
-      9.609/1998 (Lei do Software) e a Lei nº 9.610/1998 (Lei de Direitos
-      Autorais), e pertencem ao Titular.
-10.2. Componentes de terceiros distribuídos com o Software, como o ambiente
-      de execução .NET, seguem as respectivas licenças.
-10.3. Sugestões e comentários enviados pelo Usuário podem ser usados pelo
-      Titular sem obrigação de pagamento ou atribuição.
+6.1. The Software may check for, download and install updates
+     automatically. Updates may fix defects, improve features, and add or
+     remove functionality. They become part of the Software and are
+     subject to these terms.
+6.2. The Licensor is not required to maintain older versions, and some
+     updates may be required to keep using the Software.
 
 
-11. DADOS E PRIVACIDADE
+7. PRICE, PAYMENT AND REFUNDS
 
-11.1. Para login e licenciamento, o Software trata dados como o e-mail e o
-      identificador da conta (Google ou Discord), a License Key e um
-      identificador do computador gerado a partir de dados do Windows.
-11.2. Esses dados são usados para ativar, verificar e proteger a licença,
-      prestar suporte e cumprir obrigações legais, conforme a Lei Geral de
-      Proteção de Dados (Lei nº 13.709/2018).
-11.3. O Usuário pode solicitar informações, correção ou exclusão dos seus
-      dados pelo contato indicado no item 14, respeitadas as obrigações
-      legais de guarda.
-
-
-12. VIGÊNCIA E ENCERRAMENTO
-
-12.1. Esta licença vigora enquanto o Usuário cumprir estes termos e o Plano
-      estiver válido.
-12.2. Em caso de violação, a licença termina automaticamente, sem prejuízo
-      de outras medidas legais cabíveis, inclusive indenização por perdas
-      e danos.
-12.3. Encerrada a licença, o Usuário deve parar de usar o Software e
-      apagar suas cópias. Os itens 3, 4, 8, 9, 10 e 13 continuam valendo
-      após o encerramento.
+7.1. Use of the Software depends on payment of the Plan price in effect on
+     the date of purchase.
+7.2. Where mandatory consumer protection law gives you a right to withdraw
+     from an online purchase (for example, the 7-day right under Article 49
+     of Brazil's Consumer Protection Code or the 14-day right under EU
+     consumer law), that right applies as the law provides.
+7.3. Apart from that, and from any other rights the law guarantees, amounts
+     paid are non-refundable, including where the license is revoked for
+     breach of these terms.
 
 
-13. DISPOSIÇÕES GERAIS
+8. RISKS OF USE AND USER RESPONSIBILITY
 
-13.1. O Titular pode atualizar estes termos. A versão vigente é a
-      publicada com o Software. O uso continuado após a mudança indica
-      concordância, sem prejuízo dos direitos do consumidor.
-13.2. Se alguma cláusula for considerada inválida, as demais continuam em
-      vigor.
-13.3. A tolerância do Titular quanto a qualquer descumprimento não significa
-      renúncia a seus direitos.
-13.4. A licença não pode ser cedida pelo Usuário sem autorização por
-      escrito do Titular.
-13.5. Estes termos são regidos pelas leis da República Federativa do
-      Brasil. Fica eleito o foro do domicílio do Usuário consumidor. Para
-      Usuários que não sejam consumidores, fica eleito o foro da comarca
-      do domicílio do Titular, com renúncia a qualquer outro.
-
-
-14. CONTATO
-
-Dúvidas sobre esta licença, pedidos de autorização ou de dados pessoais:
-quarkium.group@proton.me
+8.1. The Software changes Windows settings, such as the registry, services,
+     apps and files, at the User's request. These changes affect the
+     computer and may cause unexpected behavior, incompatibilities or data
+     loss, depending on the equipment and on what the User chooses.
+8.2. The User is responsible for the actions they confirm, including
+     deleting files, closing processes and removing apps. Creating a
+     restore point and keeping a backup of important data before applying
+     changes is strongly recommended.
+8.3. Not every change can be undone by the Software. Removing preinstalled
+     apps, for example, can only be undone by reinstalling the app from its
+     original source.
+8.4. Performance results vary by equipment and are not guaranteed.
 
 
-Quarkium e o logotipo Quarkium são marcas do Titular.
-Todos os direitos reservados.
+9. WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+
+9.1. To the maximum extent permitted by applicable law, the Software is
+     provided "AS IS", without warranty of uninterrupted operation, absence
+     of errors, compatibility with all equipment, or fitness for a
+     particular purpose.
+9.2. To the maximum extent permitted by law, the Licensor is not liable for
+     indirect or consequential damages, lost profits, loss of data or
+     opportunities, or damage resulting from misuse, from settings chosen
+     by the User, or from third-party failures (such as Windows, drivers,
+     internet connectivity or sign-in providers).
+9.3. To the maximum extent permitted by law, the Licensor's total liability
+     to the User, for any cause, is limited to the amount the User actually
+     paid for the license.
+9.4. Nothing in this agreement excludes or limits any consumer right that
+     cannot be excluded or limited by law, or liability for fraud, willful
+     misconduct or gross negligence.
+
+
+10. INTELLECTUAL PROPERTY
+
+10.1. The Software, its source code, design, text, visual assets, the
+      Quarkium name and the logo are protected by copyright and
+      intellectual property law and belong to the Licensor.
+10.2. Third-party components distributed with the Software, such as the
+      .NET runtime, are governed by their own licenses.
+10.3. Suggestions and feedback sent by the User may be used by the Licensor
+      without obligation of payment or attribution.
+
+
+11. DATA AND PRIVACY
+
+11.1. For sign-in and licensing, the Software processes data such as the
+      email address and account identifier from your Google or Discord
+      account, the License Key, and a computer identifier derived from
+      Windows data.
+11.2. This data is used to activate, verify and protect the license, to
+      provide support and to meet legal obligations, in accordance with
+      applicable data protection law, including Brazil's General Data
+      Protection Law (LGPD) and, where it applies, the GDPR.
+11.3. You may request information about, correction of, or deletion of your
+      data through the contact in Section 14, subject to legal retention
+      obligations.
+
+
+12. TERM AND TERMINATION
+
+12.1. This license lasts while the User complies with these terms and the
+      Plan is valid.
+12.2. If the User breaches these terms, the license ends automatically,
+      without prejudice to other legal remedies, including damages.
+12.3. When the license ends, the User must stop using the Software and
+      delete all copies. Sections 3, 4, 8, 9, 10 and 13 survive
+      termination.
+
+
+13. GENERAL
+
+13.1. The Licensor may update these terms. The version in force is the one
+      published with the Software. Continued use after a change means you
+      accept it, without prejudice to your rights as a consumer.
+13.2. If any provision is found invalid, the remaining provisions stay in
+      force.
+13.3. A failure by the Licensor to enforce any breach is not a waiver of its
+      rights.
+13.4. The User may not assign this license without the Licensor's written
+      permission.
+13.5. These terms are governed by the laws of the Federative Republic of
+      Brazil, without regard to conflict-of-law rules. This does not take
+      away any mandatory consumer protections of the country where you
+      live. Consumers may bring claims in the courts of their place of
+      residence where the law gives them that right. For Users who are not
+      consumers, the courts of the Licensor's place of residence have
+      exclusive jurisdiction.
+13.6. The User must comply with export control and sanctions laws that
+      apply to their use of the Software.
+13.7. This agreement is written in English. A translation is provided for
+      convenience only, and the English version prevails in case of
+      conflict, where the law allows.
+
+
+14. CONTACT
+
+Questions about this license, permission requests, or personal data
+requests: YOUR_SUPPORT_CONTACT
+
+
+Quarkium and the Quarkium logo are trademarks of the Licensor.
+All rights reserved.
