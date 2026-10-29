@@ -73,7 +73,7 @@ Instead of a generic list of tweaks, it detects your hardware and **pre-selects 
 
 ## Getting started
 
-1. **Buy** your license at [HTTP_???](HTTP_???) and keep the License Key you receive.
+1. **Buy** your license at [QUARKIUM](https://quarkium.vercel.app/) and keep the License Key you receive.
 2. **Download** `Quarkium.exe` from the [Releases](https://github.com/Quarkium-Labs/Quarkium/releases/latest) page.
 3. **Open** the program as administrator, sign in with Google or Discord, and enter your License Key.
 4. **Choose a visual mode** and, on the home screen, check the detected hardware.
