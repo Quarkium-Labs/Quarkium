@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/quarkium_logo_web.png" width="280" alt="Quarkium">
+  <img src="Assets/quarkium_logo_web.png" width="280" alt="Quarkium">
 </p>
 
 <h1 align="center">Quarkium</h1>
