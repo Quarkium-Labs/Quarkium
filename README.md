@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/Quarkium-Labs/Quarkium/releases/latest"><b>⬇ Download the latest version</b></a>
   &nbsp;·&nbsp;
-  <a href="YOUR_PURCHASE_LINK"><b>Buy a license</b></a>
+  <a href="HTTP_???"><b>Buy a license</b></a>
   &nbsp;·&nbsp;
   <a href="#support">Support</a>
 </p>
@@ -73,7 +73,7 @@ Instead of a generic list of tweaks, it detects your hardware and **pre-selects 
 
 ## Getting started
 
-1. **Buy** your license at [YOUR_PURCHASE_LINK](YOUR_PURCHASE_LINK) and keep the License Key you receive.
+1. **Buy** your license at [HTTP_???](HTTP_???) and keep the License Key you receive.
 2. **Download** `Quarkium.exe` from the [Releases](https://github.com/Quarkium-Labs/Quarkium/releases/latest) page.
 3. **Open** the program as administrator, sign in with Google or Discord, and enter your License Key.
 4. **Choose a visual mode** and, on the home screen, check the detected hardware.
@@ -100,7 +100,7 @@ Instead of a generic list of tweaks, it detects your hardware and **pre-selects 
 
 Need help with installation, activation or moving to a new computer?
 
-- **Contact:** YOUR_SUPPORT_CONTACT
+- **Contact:** quarkium.group@proton.me
 
 When asking for help, include your Quarkium version, your Windows version and, if there is one, the message shown on screen.
 
